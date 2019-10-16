@@ -1,0 +1,16 @@
+{
+  "name": "gardening",
+  "version": "1.0.0",
+  "description": "Barbershop",
+  "main": "index.js",
+  "homepage": "https:/nasirwatts.github.io/barbershoptemplate",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Nasir",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
